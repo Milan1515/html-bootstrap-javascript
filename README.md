@@ -1,17 +1,28 @@
 # html-bootstrap-javascript
 
- <p>
-      This project is a simple web application developed using HTML, Bootstrap, and JavaScript. It was created by a junior front-end web developer as a practice to showcase their skills to potential employers.
-    </p>
-    <p>
-      The project consists of two pages, index.html and next.html, and includes several features such as form validation, dynamic form elements, and dynamic content loading.
-    </p>
-    <p>
-      The index.html page includes a form that requires users to enter their name and surname. The form fields are validated to ensure that they are not submitted empty. Additionally, the initial letter of the name and surname are capitalized. The page also includes a checkbox that enables a select element when checked. The select element's background color changes based on the selected option. If the checkbox is unchecked, the background color of the submit button is white.
-    </p>
-    <p>
-      The next.html page features a form that is populated with the search parameters from the previous page using a JavaScript dictionary. The welcome message and premium member information are dynamically generated based on the search parameters. The page also includes a list of destinations, which is loaded dynamically based on the premium member status. Users can select a destination from the list, and the price of the ticket is displayed dynamically using JavaScript.
-    </p>
-    <p>
-      You can check out this project by visiting the following link: <a href="https://milan1515.github.io/html-bootstrap-javascript/">https://milan1515.github.io/html-bootstrap-javascript/</a>
-    </p>
+  <p>This is a small project made by a junior front-end web developer to showcase their skills. The project includes the following features:</p>
+  <ol>
+    <li>Form field validation (first and last name fields are required)</li>
+    <li>Capitalizing the first letter of the first and last name fields</li>
+    <li>Disabling the "Membership" select dropdown until the "Premium" checkbox is checked</li>
+    <li>Changing the background color of the "Submit" button based on the selected option of the "Membership" select dropdown</li>
+    <li>Resetting the background color of the "Submit" button when the "Premium" checkbox is unchecked</li>
+    <li>Extracting the form parameters from the URL and creating a dictionary with them on the "next" page</li>
+    <li>Displaying the user's name from the form parameters in an h1 tag on the "next" page</li>
+    <li>Displaying a message in an h4 tag on the "next" page if the user is a premium member, based on the selected option of the "Membership" select dropdown on the previous page</li>
+    <li>Populating a select dropdown with options based on the user's membership status on the "next" page</li>
+    <li>Displaying the price of the selected destination when the user submits the form on the "next" page</li>
+  </ol>
+  <p>The project was implemented using JavaScript, HTML, and Bootstrap.</p>
+  <h2>Skills used:</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Bootstrap</li>
+    <li>DOM manipulation</li>
+    <li>Form validation</li>
+    <li>Extracting URL parameters</li>
+    <li>Creating and populating select dropdowns</li>
+    <li>Event handling</li>
+  </ul>
