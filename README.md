@@ -14,7 +14,7 @@
     <li>Displaying the price of the selected destination when the user submits the form on the "next" page</li>
   </ol>
   <p>The project was implemented using JavaScript, HTML, and Bootstrap.</p>
-  <h2>Skills used:</h2>
+  <h2>Technologies and Tools Used:</h2>
   <ul>
     <li>HTML</li>
     <li>CSS</li>
