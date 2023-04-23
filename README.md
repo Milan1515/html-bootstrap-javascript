@@ -26,3 +26,6 @@
     <li>Creating and populating select dropdowns</li>
     <li>Event handling</li>
   </ul>
+  <p>
+      You can check out this project by visiting the following link: <a href="https://milan1515.github.io/html-bootstrap-javascript/">https://milan1515.github.io/html-bootstrap-javascript/</a>
+    </p>
