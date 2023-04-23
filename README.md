@@ -1,6 +1,6 @@
 # html-bootstrap-javascript
 
-  <p>This is a small project made by a front-end web developer to showcase his skills. The project includes the following features:</p>
+  <p>This project includes the following features:</p>
   <ol>
     <li>Form field validation (first and last name fields are required)</li>
     <li>Capitalizing the first letter of the first and last name fields</li>
